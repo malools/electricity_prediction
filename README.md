@@ -1,1 +1,1 @@
-# electricity_prediction
+This project aims to gain insights from Google Maps reviews for different Paris' restaurants and shops, and also try to find patterns in certain regions of the city
